@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="siticoneCirclePictureBox1.Image" mimetype="application/x-microsoft.net.object.binary.base64"><value>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA9gEAAAKJUE5HDQoaCgAAAA1JSERSAAAAGAAAABgIBgAAAOB3PfgAAAAEZ0FNQQAAsY8L/GEFAAABrUlEQVRIS92VzUrDQBSFo6LiUlyKDyCiK8GN6FP0FboQf6hKk9hNNoLgz0JB0DSVboMv4BPoov6sRUGsgnSrLkTheu500kymY6pCFnrgI9O5556GSWZi/X95HnW7FZp1fCo5ZdoTYGyXaYZr0vZzeSH1uT4tIvARkBGfHnCdZ69s+55KFRpB41UiLAXbp/NSlYZle7pEePPOjGEp1Dv+ycIu9WNtLw3NzAVwmRRPLXW53ICWDU1MmD+gXmkTzwdzx5pHgD9fkrakciH1wNDQG8C7s0+D9iGNYXzrlumm6NOoW6Uh/P5QfBFPnCVjY4lXsd3MNPBM8rietOYC2uIejK9bcwp2QNMiVBXubNVkNvDGe6AQ0gDGz1pNwEstY2Ohadtk1uAlybEf1w1lPgGyNkWoKhR2dKMONt46e/HeO6Z6C7mECWGdV4xmFTSmvGkqBRkbCw95ymD8FcWAJmVsLD64UPz63GlyCs60OZ26RdQlY5OSh5upibnjm5D75V6rqczJuHZ1OCpe7CMaX/NpAuNXrRZRU3e8UZkedpEyPa4jZfrBUZXZJ/OPyLI+AfjTrTCoF9JPAAAAAElFTkSuQmCCCw==</value></data><data name="label1.Text"><value>(1.) This product is not refundable, if this product does 
+not work, we will help you and resolve your problem.
+
+(2.) This product is not transferable, it is bonded to 
+your HWID, if you are  locked out we will reset, 
+if sharing with friend will result in ban.
+
+(3.) This product is not refundable if you force a refund, 
+you will be  banned from the spoofer and subscription 
+will be terminated.
+
+(4.) This product has protection on it, any sort of 
+debuggers or any attempt to break the program 
+will remain in a ban.
+
+(5.) This product is directly resold from resellers, if you 
+are caught unofficially selling the product you will be 
+banned and blacklisted as a scam.
+</value></data>
+  </root>
